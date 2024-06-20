@@ -1,4 +1,19 @@
 /*  your css code here. If applicable */
+ #table-1,tr,td{
+        border: 1px solid black;
+    }
+    #table-1{
+        width: 100%;
+    }
+  #id{
+    text-align: left;
+  }
+  .center{
+    text-align: center;
+  }
+  .right{
+    text-align: right;
+  }
 #table-2 {
         width: 100%;
         }
