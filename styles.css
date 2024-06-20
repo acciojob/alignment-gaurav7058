@@ -41,7 +41,9 @@ h1{
     background-color: green;
    }
    #t-image{
-    /* Ensures margin auto works */
+                text-align: center;
+            vertical-align: middle;
+            border: 1px solid #000;
             
    }
    .blue{
