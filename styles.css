@@ -1,10 +1,28 @@
 /*  your css code here. If applicable */
-table {
-        width: 50%;
-    
+#table-2 {
+        width: 100%;
         }
-        td {
+     #table-2 td {
             width: 10%;
             height: 20px;
-            border: 1px solid black;      
+            border: 1px solid black;      		
         }
+#table-3{
+    width: 100%;
+    border: 1px solid black;
+   }
+  #table-3 td{
+    width: 33%;
+            height: 30px;
+            border: 1px solid black;
+   }
+   .green{
+    background-color: green;
+   }
+   #t-image{
+    /* Ensures margin auto works */
+            
+   }
+   .blue{
+    background-color: blue;
+   }
